@@ -1,4 +1,4 @@
-# Run_Or_Dead
+# Run_Or_Die
 echo "# Run_Or_Dead" >> README.md
 git init
 git add README.md
